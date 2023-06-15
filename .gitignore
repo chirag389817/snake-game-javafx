@@ -25,6 +25,7 @@ temp/
 classes/
 deploy/
 javadoc/
+output/
 command.txt
 
 # lock file, a part of Oracle Credential Store Framework
